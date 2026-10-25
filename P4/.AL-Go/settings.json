@@ -1,0 +1,14 @@
+{
+  "bcptTestFolders": [],
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/fb27afbcab20378ab0ac0978e7efe4131bdc0962/Actions/.Modules/settings.schema.json",
+  "appDependencyProbingPaths": [
+    {
+      "release_status": "include",
+      "repo": ".",
+      "projects": "P2,P3"
+    }
+  ],
+  "appFolders": [],
+  "country": "it",
+  "testFolders": []
+}
